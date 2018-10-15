@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=qmlryver
+Icon=ryver
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Network;
+Name=Ryver
+GenericName=Ryver
+Comment=Ryver
