@@ -7,12 +7,12 @@ SOURCES += main.cpp
 
 RESOURCES += qml.qrc
 
-target.path = /usr/local/bin
+target.path = /usr/bin
 
 desktop.files = ryver.desktop
-desktop.path = /usr/local/share/applications
+desktop.path = /usr/share/applications
 
 icon.files = ryver.png
-icon.path = /usr/local/share/icons/hicolor/scalable/apps
+icon.path = /usr/share/icons/hicolor/scalable/apps
 
 INSTALLS += target desktop icon
