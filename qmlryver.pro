@@ -1,7 +1,6 @@
 TEMPLATE = app
 
 QT += webengine svg gui
-lessThan(QT_MINOR_VERSION, 5.9): error("requires Qt 5.9")
 
 SOURCES += main.cpp
 
